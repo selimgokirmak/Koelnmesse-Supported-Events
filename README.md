@@ -1,4 +1,4 @@
-# [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-scraper)
+# 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-scraper)
 
 **Koelnmesse Exhibitor List Scraper** enables easy extraction of detailed exhibitor data for B2B lead generation and event analysis.
 
