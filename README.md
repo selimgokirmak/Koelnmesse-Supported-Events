@@ -6,9 +6,9 @@ Scrape comprehensive exhibitor data from **Koelnmesse trade fair directories** w
 
 
 ## 🎯 Supported Website Structure
-This scraper is designed to scrape **only** on exhibitor directory websites that use the same HTML structure as the official Koelnmesse exhibitor search pages.
+This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Koelnmesse exhibitor lists.
 
-### How to identify a supported website:
+### ❓ How to identify a supported website:
 ✅ The page URL usually ends with `/list-of-exhibitors/`.
 
 ✅ There should be an `Exhibitor Search` option under one of the menus (like in the image).
