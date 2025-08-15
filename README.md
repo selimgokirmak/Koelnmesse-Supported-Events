@@ -1,24 +1,33 @@
-# 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-scraper)
+## 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-scraper)
 
-**Koelnmesse Exhibitor List Scraper** enables easy extraction of detailed exhibitor data for B2B lead generation and event analysis.
+Simple web scraper for extracting exhibitor data from **Koelnmesse** trade show exhibitor lists. 
 
-Scrape comprehensive exhibitor data from **Koelnmesse trade fair directories** with this powerful scraper. Easily collect detailed company profiles including contact information, website links, social media profiles, product groups, brands, and more. Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple Koelnmesse exhibitions with a consistent HTML structure.
+Easily scrape company profiles including **company details, websites, social media links, product groups, brands, and more**. 
+
+Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. 
+
+Supports multiple Koelnmesse trade fair websites with a consistent HTML structure.
 
 
 ## 🎯 Supported Website Structure
+
 This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Koelnmesse exhibitor lists.
 
 ### ❓ How to identify a supported website:
+
 ✅ The page URL usually ends with `/list-of-exhibitors/`.
 
 ✅ There should be an `Exhibitor Search` option under one of the menus (like in the image).
 
-**If you are unsure whether your target event is supported,** you can run a test with the URL — if no results are returned, the website is not compatible.
+✅ Exhibitor listing page format should be the same as the sample websites below.
+
+💡 **If you are unsure whether your target event is supported,** you can run a test with the URL — if no results are returned, the website is not compatible.
 
 <img src="exhibitor_search_image.png" width="100%"/>
 
 
 ## 🌐 Supported Koelnmesse Events (Exhibitor Lists)
+
 **Note:** *The following list includes Koelnmesse exhibitor directory URLs that have been tested so far. Other Koelnmesse or different events with the same website structure may also be supported.*
 
 - [Anuga 2025 Exhibitor List](https://www.anuga.com/anuga-exhibitors/list-of-exhibitors/)
