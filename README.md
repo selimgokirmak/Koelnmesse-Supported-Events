@@ -1,6 +1,6 @@
 ## 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
 
-Simple web scraper for extracting exhibitor data from **Koelnmesse** trade show exhibitor lists. 
+Simple web scraper for extracting exhibitor data from trade show exhibitor lists organized by **Koelnmesse**. 
 
 Easily scrape company profiles including **company details, websites, social media links, product groups, brands, and more**. 
 
@@ -63,3 +63,5 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [Spoga Horse 2026 Exhibitor List](https://www.spogahorse.com/spoga-horse-exhibitors/list-of-exhibitors/)
 
 - [The Tire Cologne 2025 Exhibitor List](https://www.thetire-cologne.com/ttc-exhibitors/list-of-exhibitors/)
+
+- [IDS(International Dental Show) 2025 Exhibitor List](https://www.english.ids-cologne.de/ids-cologne-exhibitors/list-of-exhibitors/)
