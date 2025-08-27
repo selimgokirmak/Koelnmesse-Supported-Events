@@ -9,6 +9,13 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple Koelnmesse trade fair websites with a consistent HTML structure.
 
 
+## 👇 Check My Other Exhibitor List Scrapers
+
+- [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
+
+- [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
+
+
 ## 🎯 Supported Website Structure
 
 This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Koelnmesse exhibitor lists.
@@ -65,10 +72,3 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [The Tire Cologne 2025 Exhibitor List](https://www.thetire-cologne.com/ttc-exhibitors/list-of-exhibitors/)
 
 - [IDS(International Dental Show) 2025 Exhibitor List](https://www.english.ids-cologne.de/ids-cologne-exhibitors/list-of-exhibitors/)
-
-
-## 👇 Check My Other Exhibitor List Scrapers
-
-- [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
-
-- [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
