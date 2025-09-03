@@ -9,11 +9,20 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple Koelnmesse trade fair websites with a consistent HTML structure.
 
 
+## 🔎 Testing Exhibitor List URLs for FREE
+
+Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+
 ## 👇 Check My Other Exhibitor List Scrapers
 
 - [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
+
+- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+
+- [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 
 ## 🎯 Supported Website Structure
@@ -27,8 +36,6 @@ This scraper is designed to extract data from exhibitor directories with the sam
 ✅ There should be an `Exhibitor Search` option under one of the menus (like in the image).
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
-
-💡 **If you are unsure whether your target event is supported,** you can run a test with the URL — if no results are returned, the website is not compatible.
 
 <img src="exhibitor_search_image.png" width="100%"/>
 
