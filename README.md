@@ -24,6 +24,10 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
+- [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
+
+- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -31,9 +35,11 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 ### ❓ How to identify a supported website:
 
-✅ The page URL usually ends with `/list-of-exhibitors/`.
+✅ Exhibitor listing page URL usually ends with `/list-of-exhibitors/`.
 
-✅ There should be an `Exhibitor Search` option under one of the menus (like in the image).
+- An example event website URL: https://www.hh-cologne.com/hh-cologne-exhibitors/list-of-exhibitors/
+
+✅ There could be an `Exhibitor Search` option under one of the menus (like in the image).
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
 
