@@ -56,17 +56,17 @@ Supports multiple Koelnmesse trade fair websites with a consistent HTML structur
 
 **Note:** *The following list includes Koelnmesse exhibitor directory URLs that have been tested so far. Other Koelnmesse or different events with the same website structure may also be supported.*
 
-- [Anuga 2025 Exhibitor List - anuga.com](https://www.anuga.com/anuga-exhibitors/list-of-exhibitors/)
+- [Anuga 2025 Exhibitor List – anuga.com](https://www.anuga.com/anuga-exhibitors/list-of-exhibitors/)
 
-- [Anuga FoodTec 2024 Exhibitor List - anugafoodtec.com](https://www.anugafoodtec.com/anuga-foodtec-exhibitors/list-of-exhibitors/)
+- [Anuga FoodTec 2024 Exhibitor List – anugafoodtec.com](https://www.anugafoodtec.com/anuga-foodtec-exhibitors/list-of-exhibitors/)
 
-- [Aquanale 2025 Exhibitor List - aquanale.com](https://www.aquanale.com/aquanale-exhibitors/list-of-exhibitors/)
+- [Aquanale 2025 Exhibitor List – aquanale.com](https://www.aquanale.com/aquanale-exhibitors/list-of-exhibitors/)
 
-- [Asia-Pacific Sourcing 2025 Exhibitor List - asia-pacificsourcing.com](https://www.asia-pacificsourcing.com/aps-exhibitors/list-of-exhibitors/)
+- [Asia-Pacific Sourcing 2025 Exhibitor List – asia-pacificsourcing.com](https://www.asia-pacificsourcing.com/aps-exhibitors/list-of-exhibitors/)
 
-- [Didacta Cologne 2024 Exhibitor List - didacta-cologne.com](https://www.didacta-cologne.com/didacta-exhibitors/list-of-exhibitors/)
+- [Didacta Cologne 2024 Exhibitor List – didacta-cologne.com](https://www.didacta-cologne.com/didacta-exhibitors/list-of-exhibitors/)
 
-- [Eisenwarenmesse 2024 Exhibitor List - eisenwarenmesse.com](https://www.eisenwarenmesse.com/eisenwarenmesse-exhibitors/list-of-exhibitors/)
+- [Eisenwarenmesse 2024 Exhibitor List – eisenwarenmesse.com](https://www.eisenwarenmesse.com/eisenwarenmesse-exhibitors/list-of-exhibitors/)
 
 - [FSB Cologne 2025 Exhibitor List – fsb-cologne.com](https://www.fsb-cologne.com/fsb-exhibitors/list-of-exhibitors/)
 
