@@ -49,7 +49,7 @@ Supports multiple Koelnmesse trade fair websites with a consistent HTML structur
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
 
 
 ## 🌐 Supported Koelnmesse Events (Exhibitor Lists)
