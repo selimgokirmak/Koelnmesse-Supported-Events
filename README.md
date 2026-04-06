@@ -54,6 +54,8 @@ Supports multiple **Koelnmesse** trade fair websites with a consistent HTML stru
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -99,6 +101,8 @@ Supports multiple **Koelnmesse** trade fair websites with a consistent HTML stru
 - [The Tire Cologne 2025 Exhibitor List – thetire-cologne.com](https://www.thetire-cologne.com/ttc-exhibitors/list-of-exhibitors/)
 
 - [IDS (International Dental Show) 2025 Exhibitor List – english.ids-cologne.de](https://www.english.ids-cologne.de/ids-cologne-exhibitors/list-of-exhibitors/)
+
+- [Gamescom 2025 Exhibitor List – exhibitors.gamescom.global](https://exhibitors.gamescom.global/en/gamescom-exhibitors/list-of-exhibitors/)
 
 - [Orgatec 2024 Exhibitor List – orgatec.com](https://www.orgatec.com/orgatec-exhibitors/list-of-exhibitors/)
 
