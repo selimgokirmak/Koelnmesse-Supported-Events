@@ -16,11 +16,11 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 - [Supported Website Structure](#supported-website-structure)
 
+- [Supported Koelnmesse Events (Exhibitor Lists)](#supported-koelnmesse-events-exhibitor-lists)
+
 - [Testing Exhibitor List URLs](#testing-exhibitor-list-urls-for-free)
 
 - [Exhibitor List Scraper - All-In-One Version](#exhibitor-list-scraper---all-in-one-version)
-
-- [Supported Koelnmesse Events (Exhibitor Lists)](#supported-koelnmesse-events-exhibitor-lists)
 
 - [Data Fields](#data-fields)
 
@@ -72,24 +72,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ---
 
-## Testing Exhibitor List URLs for FREE
-
-- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
-
-- Use [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
-
----
-
-## Exhibitor List Scraper - All-In-One Version
-
-- I also provide an **All-In-One** version that combines **my 30+ exhibitor list scrapers** into a single actor.
-
-- Instead of searching for the correct scraper for each event URL, simply provide the event URL and the actor automatically selects the appropriate scraper.
-
-- ➡️ [Exhibitor List Scraper - All-In-One](https://apify.com/skython/exhibitor-list-scraper)
-
----
-
 ## Supported Koelnmesse Events (Exhibitor Lists)
 
 > The following partial list includes Koelnmesse exhibitor directory URLs that have been tested so far. Other Koelnmesse events or different events with the same website structure may also be supported.
@@ -133,6 +115,24 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Orgatec 2024 Exhibitor List – orgatec.com](https://www.orgatec.com/orgatec-exhibitors/list-of-exhibitors/)
 
 - [Anuga FoodTec 2024 Exhibitor List – anugafoodtec.com](https://www.anugafoodtec.com/anuga-foodtec-exhibitors/list-of-exhibitors/)
+
+---
+
+## Testing Exhibitor List URLs for FREE
+
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+---
+
+## Exhibitor List Scraper - All-In-One Version
+
+- I also provide an **All-In-One** version that combines **my 30+ exhibitor list scrapers** into a single actor.
+
+- Instead of searching for the correct scraper for each event URL, simply provide the event URL and the actor automatically selects the appropriate scraper.
+
+- ➡️ [Exhibitor List Scraper - All-In-One](https://apify.com/skython/exhibitor-list-scraper)
 
 ---
 
