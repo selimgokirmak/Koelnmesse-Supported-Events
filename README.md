@@ -178,8 +178,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
     </tbody>
 </table>
 
-<br>
-
 ---
 
 ## Example Output
@@ -231,8 +229,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
   ]
 }
 ```
-
-<br>
 
 ---
 
