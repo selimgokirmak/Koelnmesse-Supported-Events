@@ -4,6 +4,8 @@ Extract exhibitor data from trade show exhibitor lists provided by **Koelnmesse*
 
 Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple **Koelnmesse** exhibition websites with a consistent HTML structure.
 
+> [Apify](https://apify.com/) is a cloud platform and marketplace for web scraping and automation tools.
+
 ---
 
 ## Contents
