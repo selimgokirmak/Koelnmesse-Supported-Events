@@ -1,10 +1,6 @@
-## 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)
+## 🤖 [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper) — Trade Shows, Expos, Fairs & Exhibition Directories
 
-Extract exhibitor data from trade show exhibitor lists provided by **Koelnmesse**. Easily scrape company profiles including **company details, websites, social media links, product groups, brands, and more**. 
-
-Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple **Koelnmesse** exhibition websites with a consistent HTML structure.
-
-> [Apify](https://apify.com/) is a cloud platform and marketplace for web scraping and automation tools.
+Extract complete exhibitor lists from Koelnmesse trade shows — including Anuga, Eisenwarenmesse, Didacta, The Tire, Kind + Jugend, Aquanale, Interzum, Intermot, Gamescom, and more — spanning automotive, technology, energy, food & beverage, and packaging industries. Scrape company profiles including company details, websites, social media links, product categories, and brands. Ideal for B2B lead generation, sales prospecting, market research, event networking, and competitive analysis.
 
 ---
 
@@ -13,8 +9,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Features](#features)
 
 - [Use Cases](#use-cases)
-
-- [Supported Website Structure](#supported-website-structure)
 
 - [Supported Koelnmesse Events (Exhibitor Lists)](#supported-koelnmesse-events-exhibitor-lists)
 
@@ -62,33 +56,37 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ---
 
-## Supported Website Structure
-
-- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Koelnmesse exhibitor lists below.
-
-- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
-
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
-
----
-
 ## Supported Koelnmesse Events (Exhibitor Lists)
 
-> The following partial list includes Koelnmesse exhibitor directory URLs that have been tested so far. Other Koelnmesse events or different events with the same website structure may also be supported.
+- The following partial list includes Koelnmesse exhibitor directory URLs that have been tested so far. Other Koelnmesse events or different events with the same website structure may also be supported.
 
-> Some event URLs may have been updated or canceled entirely; please check them before using.
+- Some event URLs may have been updated or canceled entirely; please check them before using.
 
-- [Eisenwarenmesse 2026 Exhibitor List – eisenwarenmesse.com](https://www.eisenwarenmesse.com/eisenwarenmesse-exhibitors/list-of-exhibitors/)
+- [Gamescom 2026 Exhibitor List – exhibitors.gamescom.global](https://exhibitors.gamescom.global/en/gamescom-exhibitors/list-of-exhibitors/)
 
-- [Didacta Cologne 2026 Exhibitor List – didacta-cologne.com](https://www.didacta-cologne.com/didacta-exhibitors/list-of-exhibitors/)
+- [ISM Cologne 2027 Exhibitor List – ism-cologne.com](https://www.ism-cologne.com/ism-cologne-exhibitors/list-of-exhibitors/)
 
-- [h+h Cologne 2026 Exhibitor List – hh-cologne.com](https://www.hh-cologne.com/hh-cologne-exhibitors/list-of-exhibitors/)
+- [Kind + Jugend 2026 Exhibitor List – kindundjugend.com](https://www.kindundjugend.com/kindundjugend-exhibitors/list-of-exhibitors/)
 
-- [ProSweets Cologne 2026 Exhibitor List – prosweets.com](https://www.prosweets.com/psc-exhibitors/list-of-exhibitors/)
+- [Orgatec 2026 Exhibitor List – orgatec.com](https://www.orgatec.com/orgatec-exhibitors/list-of-exhibitors/)
+
+- [Spoga+Gafa 2026 Exhibitor List – spogagafa.com](https://www.spogagafa.com/spoga-gafa-exhibitors/list-of-exhibitors/)
 
 - [Spoga Horse 2026 Exhibitor List – spogahorse.com](https://www.spogahorse.com/spoga-horse-exhibitors/list-of-exhibitors/)
 
-- [ISM Cologne 2026 Exhibitor List – ism-cologne.com](https://www.ism-cologne.com/ism-cologne-exhibitors/list-of-exhibitors/)
+- [The Tire Cologne 2026 Exhibitor List – thetire-cologne.com](https://www.thetire-cologne.com/ttc-exhibitors/list-of-exhibitors/)
+
+- [Didacta Cologne 2026 Exhibitor List – didacta-cologne.com](https://www.didacta-cologne.com/didacta-exhibitors/list-of-exhibitors/)
+
+- [Eisenwarenmesse 2026 Exhibitor List – eisenwarenmesse.com](https://www.eisenwarenmesse.com/eisenwarenmesse-exhibitors/list-of-exhibitors/)
+
+- [h+h Cologne 2026 Exhibitor List – hh-cologne.com](https://www.hh-cologne.com/hh-cologne-exhibitors/list-of-exhibitors/)
+
+- [IDS (International Dental Show) 2027 Exhibitor List – english.ids-cologne.de](https://www.english.ids-cologne.de/ids-cologne-exhibitors/list-of-exhibitors/)
+
+- [Anuga FoodTec 2027 Exhibitor List – anugafoodtec.com](https://www.anugafoodtec.com/anuga-foodtec-exhibitors/list-of-exhibitors/)
+
+- [IMM Cologne 2026 Exhibitor List – imm-cologne.com](https://www.imm-cologne.com/imm-cologne-exhibitors/list-of-exhibitors/)
 
 - [Anuga 2025 Exhibitor List – anuga.com](https://www.anuga.com/anuga-exhibitors/list-of-exhibitors/)
 
@@ -101,20 +99,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Intermot Cologne 2025 Exhibitor List – intermot-cologne.com](https://www.intermot-cologne.com/intermot-exhibitors/list-of-exhibitors/)
 
 - [Interzum 2025 Exhibitor List – interzum.com](https://www.interzum.com/en/interzum-exhibitors/list-of-exhibitors/)
-
-- [Kind + Jugend 2025 Exhibitor List – kindundjugend.com](https://www.kindundjugend.com/kindundjugend-exhibitors/list-of-exhibitors/)
-
-- [Spoga+Gafa 2025 Exhibitor List – spogagafa.com](https://www.spogagafa.com/spoga-gafa-exhibitors/list-of-exhibitors/)
-
-- [The Tire Cologne 2025 Exhibitor List – thetire-cologne.com](https://www.thetire-cologne.com/ttc-exhibitors/list-of-exhibitors/)
-
-- [IDS (International Dental Show) 2025 Exhibitor List – english.ids-cologne.de](https://www.english.ids-cologne.de/ids-cologne-exhibitors/list-of-exhibitors/)
-
-- [Gamescom 2025 Exhibitor List – exhibitors.gamescom.global](https://exhibitors.gamescom.global/en/gamescom-exhibitors/list-of-exhibitors/)
-
-- [Orgatec 2024 Exhibitor List – orgatec.com](https://www.orgatec.com/orgatec-exhibitors/list-of-exhibitors/)
-
-- [Anuga FoodTec 2024 Exhibitor List – anugafoodtec.com](https://www.anugafoodtec.com/anuga-foodtec-exhibitors/list-of-exhibitors/)
 
 ---
 
@@ -297,3 +281,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [Comexposium Exhibitor List Scraper V2](https://apify.com/skython/comexposium-exhibitor-list-scraper-2)
 
 - [Informa Markets Exhibitor List Scraper V3](https://apify.com/skython/informa-markets-exhibitor-list-scraper-3)
+
+- [LIVEBUZZ Exhibitor List Scraper](https://apify.com/skython/livebuzz-exhibitor-list-scraper)
+
+- [ASP Events Exhibitor List Scraper](https://apify.com/skython/asp-events-exhibitor-list-scraper)
+
+- [Fortem Exhibitor List Scraper](https://apify.com/skython/fortem-exhibitor-list-scraper)
